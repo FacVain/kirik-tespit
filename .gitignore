@@ -1,2 +1,5 @@
-method-3/frac_atlas_model/
-method-3/efficientnetb7.h5
+method-3/fracatlas/frac_atlas_model/
+method-3/fracatlas/efficientnet/
+method-3/fracatlas/efficientnetb7.h5
+method-3/fracatlas/efficientnetb7_weights.h5
+method-3/fracatlas/vgg16/
