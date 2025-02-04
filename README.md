@@ -3,6 +3,9 @@ Bil468 Dönem Projesi Grup No:3
 Furkan Taşdemir
 Mehmet Safa Öztürkoğlu
 
+Project Report: [Bone Fracture Diagnosis.pdf](https://github.com/user-attachments/files/18656786/Bone.Fracture.Diagnosis.pdf)
+
+
 Dijital radyografi, kemik kırıklarının teşhisi için en yaygın ve uygun maliyetli standartlardan biridir. 
 Radyografi görüntüleri kullanılarak yapılacak kemik kırığı teşhisi süreci ise zaman alan ve görüntülerdeki çeşitli kusurlar sebebiyle hatalı tanıya imkân veren bir yapıdadır. Bilgisayarla görme algoritmalarının da gelişmesiyle birlikte, kemik kırığı tanı sürecini doktorlar için kolaylaştırmak adına radyografi görüntülerinden kemik kırığı sınıflandırması yapan bir sistem geliştirmekteyiz.
 
